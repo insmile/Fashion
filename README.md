@@ -5,9 +5,9 @@
 ### Python
 Hello!
 
-*python
-*css
-*html
+* python
+* css
+* html
 
 ## 20180801
 ometimes you want numbered lists:
